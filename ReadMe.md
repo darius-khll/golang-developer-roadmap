@@ -2,7 +2,7 @@
 
 > Roadmap to becoming a [Go](https://golang.org/) developer in 2019:
 
-Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a GoLang developer. I made this chart as a tip for everyone who asks me, "What should I learn next a GoLang developer?"
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Go developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Go developer?"
 
 ## Disclaimer
 
@@ -20,7 +20,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 1. Prerequisites
 
-   - [GoLang](https://golangbot.com/)
+   - [Go](https://golangbot.com/)
    - [Dep](https://github.com/golang/dep)
    - [SQL](https://www.w3schools.com/sql/default.asp)
 
