@@ -79,7 +79,6 @@ If you like or are using this project to learn or start your solution, please gi
 
    1. Log Frameworks
       - [Zap](https://github.com/uber-go/zap)
-      - [GLog](https://github.com/google/glog)
       - [ZeroLog](https://github.com/rs/zerolog)
       - [Logrus](https://github.com/sirupsen/logrus)
    2. Log Management System
