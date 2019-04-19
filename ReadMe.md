@@ -30,7 +30,7 @@ If you like or are using this project to learn or start your solution, please gi
    - Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
    - Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
    - Read a few books about algorithms and data structures
-   - Learn about implementation of a basic Authenctication
+   - Learn about implementation of a basic Authentication
    - Solid principles, etc
 
 3. Web Frameworks + Routers
