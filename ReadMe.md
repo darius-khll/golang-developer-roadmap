@@ -133,8 +133,13 @@ If you like or are using this project to learn or start your solution, please gi
        - [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
     2. Message-Bus
        - [Message-Bus](https://github.com/vardius/message-bus)
-   - [GoKit](https://github.com/go-kit/kit)
-   - [Micro](https://github.com/micro/go-micro)
+    3. Frameworks
+      - [GoKit](https://github.com/go-kit/kit)
+      - [Micro](https://github.com/micro/go-micro)
+    4. RPC
+      - [Protocol Buffers](https://github.com/protocolbuffers/protobuf)
+      - [gRPC-Go](https://github.com/grpc/grpc-go)
+      - [gRPC-Gatewat](https://github.com/grpc-ecosystem/grpc-gateway)
 
 15. [Go-Patterns](https://github.com/tmrts/go-patterns)
 
