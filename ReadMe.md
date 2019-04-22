@@ -33,7 +33,11 @@ If you like or are using this project to learn or start your solution, please gi
    - Learn about implementation of a basic Authentication
    - Solid principles, etc
 
-3. Web Frameworks + Routers
+3. CLI Tools
+   1. [cobra](https://github.com/spf13/cobra)
+   2. [urfave/cli](https://github.com/urfave/cli)
+
+4. Web Frameworks + Routers
 
    1. [Echo](https://github.com/labstack/echo)
    2. [Beego](https://github.com/astaxie/beego)
@@ -41,7 +45,7 @@ If you like or are using this project to learn or start your solution, please gi
    4. [Revel](https://github.com/revel/revel)
    5. [Chi](https://github.com/go-chi/chi)
 
-4. Databases
+5. Databases
 
    1. Relational
       1. [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
@@ -63,19 +67,19 @@ If you like or are using this project to learn or start your solution, please gi
       - [RavenDB](https://github.com/ravendb/ravendb)
       - [CouchDB](http://couchdb.apache.org/)
 
-5. ORMs
+6. ORMs
 
    1. [Gorm](https://github.com/jinzhu/gorm)
    2. [Xorm](https://github.com/go-xorm/xorm)
 
-6. Caching
+7. Caching
 
    1. [GCache](https://github.com/bluele/gcache)
    2. Distributed Cache
       1. [Go-Redis](https://github.com/go-redis/redis)
       2. [GoMemcached](https://github.com/bradfitz/gomemcache)
 
-7. Logging
+8. Logging
 
    1. Log Frameworks
       - [Zap](https://github.com/uber-go/zap)
@@ -85,11 +89,10 @@ If you like or are using this project to learn or start your solution, please gi
       - [Sentry.io](http://sentry.io)
       - [Loggly.com](https://loggly.com)
 
-8. Real-Time Communication
-
+9. Real-Time Communication
    1. [Socket.IO](https://socket.io/)
 
-9. API Clients
+10. API Clients
 
     1. REST
        - [Gentelman](https://github.com/h2non/gentleman)
@@ -97,7 +100,7 @@ If you like or are using this project to learn or start your solution, please gi
        - [heimdall](https://github.com/heimdal/heimdal)
     2. [GraphQL](https://graphql.org/)
 
-10. Good to Know
+11. Good to Know
 
     - [Validator](https://github.com/chriso/validator.js/)
     - [Glow](https://github.com/pytorch/glow)
@@ -105,7 +108,7 @@ If you like or are using this project to learn or start your solution, please gi
     - [Authboss](https://github.com/volatiletech/authboss)
     - [Go-Underscore](https://github.com/ahl5esoft/golang-underscore)
 
-11. Testing
+12. Testing
 
     1. Unit, Behavior, Integration Testing
        1. [GoMock](https://github.com/golang/mock)
@@ -114,17 +117,17 @@ If you like or are using this project to learn or start your solution, please gi
        4. [GoMega](https://github.com/onsi/gomega)
        5. [GoCheck](https://github.com/go-check/check)
        6. [GoDog](https://github.com/DATA-DOG/godog)
-       6. [GoConvey](https://github.com/smartystreets/goconvey)
+       7. [GoConvey](https://github.com/smartystreets/goconvey)
     2. E2E Testing
        - [Selenium](https://github.com/tebeka/selenium)
        - [Endly](https://github.com/viant/endly)
 
-12. Task Scheduling
+13. Task Scheduling
 
     - [Gron](https://github.com/roylee0704/gron)
     - [JobRunner](https://github.com/bamzi/jobrunner)
-    
-13. MicroServices
+
+14. MicroServices
 
     1. Message-Broker
        - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html)
@@ -142,7 +145,6 @@ If you like or are using this project to learn or start your solution, please gi
          - [gRPC-Gatewat](https://github.com/grpc-ecosystem/grpc-gateway)
 
 15. [Go-Patterns](https://github.com/tmrts/go-patterns)
-
 
 ## Wrap Up
 
