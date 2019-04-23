@@ -142,7 +142,7 @@ If you like or are using this project to learn or start your solution, please gi
     4. RPC
          - [Protocol Buffers](https://github.com/protocolbuffers/protobuf)
          - [gRPC-Go](https://github.com/grpc/grpc-go)
-         - [gRPC-Gatewat](https://github.com/grpc-ecosystem/grpc-gateway)
+         - [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway)
 
 15. [Go-Patterns](https://github.com/tmrts/go-patterns)
 
