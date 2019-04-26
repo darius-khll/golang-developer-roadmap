@@ -143,6 +143,7 @@
     3. 框架
          - [GoKit](https://github.com/go-kit/kit)
          - [Micro](https://github.com/micro/go-micro)
+         - [rpcx](https://github.com/smallnest/rpcx)
     4. RPC
          - [Protocol Buffers](https://github.com/protocolbuffers/protobuf)
          - [gRPC-Go](https://github.com/grpc/grpc-go)
