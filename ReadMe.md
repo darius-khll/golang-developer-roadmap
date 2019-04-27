@@ -132,8 +132,8 @@ If you like or are using this project to learn or start your solution, please gi
 14. MicroServices
 
     1. Message-Broker
-       - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html)
-       - [Apache Kafka](https://www.npmjs.com/package/kafka-node)
+       - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-go.html)
+       - [Apache Kafka](https://kafka.apache.org/)
        - [ActiveMQ](https://github.com/apache/activemq)
        - [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
     2. Message-Bus
