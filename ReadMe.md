@@ -2,13 +2,13 @@
 
 > Roadmap to becoming a [Go](https://golang.org/) developer in 2019:
 
-Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Go developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Go developer?"
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Go developer. I made this chart as a tip for everyone who asks me, "*What should I learn next as a Go developer?*"
 
 [中文版](./i18n/ReadMe-zh-CN.md)
 
 ## Disclaimer
 
-> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hype and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hype and trendy does not always mean best suited for the job.
 
 ## Give a Star! :star:
 
@@ -23,7 +23,7 @@ If you like or are using this project to learn or start your solution, please gi
 1. Prerequisites
 
    - [Go](https://golangbot.com/)
-   - [Dep](https://github.com/golang/dep)
+   - [Go Modules](https://blog.golang.org/using-go-modules)
    - [SQL](https://www.w3schools.com/sql/default.asp)
 
 2. General Development Skills
@@ -54,6 +54,7 @@ If you like or are using this project to learn or start your solution, please gi
       2. [PostgreSQL](https://www.postgresql.org/)
       3. [MariaDB](https://mariadb.org/)
       4. [MySQL](https://www.mysql.com/)
+      5. [CockroachDB](https://www.cockroachlabs.com/) 
    2. Cloud Databases
       - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db)
       - [DynamoDB](https://aws.amazon.com/dynamodb/)
@@ -97,10 +98,13 @@ If you like or are using this project to learn or start your solution, please gi
 10. API Clients
 
     1. REST
-       - [Gentelman](https://github.com/h2non/gentleman)
+       - [Gentleman](https://github.com/h2non/gentleman)
        - [GRequests](https://github.com/kennethreitz/grequests)
        - [heimdall](https://github.com/heimdal/heimdal)
     2. [GraphQL](https://graphql.org/)
+       - [gqlgen](https://github.com/99designs/gqlgen)
+       - [graphql-go](https://github.com/graph-gophers/graphql-go)
+    
 
 11. Good to Know
 
@@ -132,8 +136,8 @@ If you like or are using this project to learn or start your solution, please gi
 14. MicroServices
 
     1. Message-Broker
-       - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html)
-       - [Apache Kafka](https://www.npmjs.com/package/kafka-node)
+       - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-go.html)
+       - [Apache Kafka](https://kafka.apache.org/)
        - [ActiveMQ](https://github.com/apache/activemq)
        - [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
     2. Message-Bus
