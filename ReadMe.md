@@ -91,6 +91,7 @@ If you like or are using this project to learn or start your solution, please gi
    2. Log Management System
       - [Sentry.io](http://sentry.io)
       - [Loggly.com](https://loggly.com)
+      - [Kibana](https://www.elastic.co/products/kibana)
 
 9. Real-Time Communication
    1. [Socket.IO](https://socket.io/)
@@ -104,7 +105,6 @@ If you like or are using this project to learn or start your solution, please gi
     2. [GraphQL](https://graphql.org/)
        - [gqlgen](https://github.com/99designs/gqlgen)
        - [graphql-go](https://github.com/graph-gophers/graphql-go)
-    
 
 11. Good to Know
 
@@ -150,6 +150,7 @@ If you like or are using this project to learn or start your solution, please gi
          - [Protocol Buffers](https://github.com/protocolbuffers/protobuf)
          - [gRPC-Go](https://github.com/grpc/grpc-go)
          - [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway)
+         - [Twirp](https://github.com/twitchtv/twirp)
 
 15. [Go-Patterns](https://github.com/tmrts/go-patterns)
 
