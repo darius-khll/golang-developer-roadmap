@@ -91,7 +91,6 @@ If you like or are using this project to learn or start your solution, please gi
    2. Log Management System
       - [Sentry.io](http://sentry.io)
       - [Loggly.com](https://loggly.com)
-      - [Kibana](https://www.elastic.co/products/kibana)
 
 9. Real-Time Communication
    1. [Socket.IO](https://socket.io/)
