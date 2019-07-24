@@ -146,10 +146,12 @@
          - [GoKit](https://github.com/go-kit/kit)
          - [Micro](https://github.com/micro/go-micro)
          - [rpcx](https://github.com/smallnest/rpcx)
+         - [istio](https://github.com/istio/istio)
     4. RPC
          - [Protocol Buffers](https://github.com/protocolbuffers/protobuf)
          - [gRPC-Go](https://github.com/grpc/grpc-go)
          - [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway)
+         - [Twirp](https://github.com/twitchtv/twirp)
 
 15. [Go-模式](https://github.com/tmrts/go-patterns)
 
