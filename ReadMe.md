@@ -91,6 +91,8 @@ If you like or are using this project to learn or start your solution, please gi
    2. Log Management System
       - [Sentry.io](http://sentry.io)
       - [Loggly.com](https://loggly.com)
+   3. Distributed Tracing
+      - [Jaeger](https://www.jaegertracing.io/)
 
 9. Real-Time Communication
    1. [Socket.IO](https://socket.io/)
