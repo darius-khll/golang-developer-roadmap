@@ -33,7 +33,8 @@ If you like or are using this project to learn or start your solution, please gi
    - Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
    - Read a few books about algorithms and data structures
    - Learn about implementation of a basic Authentication
-   - Solid principles, etc
+   - Solid principles, architectural & design patterns, ecc
+   - Basics of software testing (unit, integration, e2e)
 
 3. CLI Tools
    1. [cobra](https://github.com/spf13/cobra)
