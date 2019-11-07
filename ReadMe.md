@@ -67,7 +67,6 @@ If you like or are using this project to learn or start your solution, please gi
       - [MongoDB](https://www.mongodb.com/)
       - [Redis](https://redis.io/)
       - [Apache Cassandra](http://cassandra.apache.org/)
-      - [LiteDB](https://github.com/mbdavid/LiteDB)
       - [RavenDB](https://github.com/ravendb/ravendb)
       - [CouchDB](http://couchdb.apache.org/)
 
