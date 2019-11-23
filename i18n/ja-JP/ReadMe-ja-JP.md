@@ -1,33 +1,33 @@
-# Go Developer Roadmap
+# Go 開発者のロードマップ
 
-> Roadmap to becoming a [Go](https://golang.org/) developer in 2019:
+> 2019年に[Go](https://golang.org/)開発者になるためのロードマップ：
 
-Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Go developer. I made this chart as a tip for everyone who asks me, "*What should I learn next as a Go developer?*"
+以下に、Go開発者になるために学習したい技術やライブラリを示すチャートを示します。 このチャートは、「*Go開発者として次に学ぶべきことは何ですか？*」と私に問う人向けに作成しました。
 
+[English](../../ReadMe.md)
 [中文版](./i18n/zh-CN/ReadMe-zh-CN.md)
-[日本語版](./i18n/ja-JP/ReadMe-ja-JP.md)
 
-## Disclaimer
+## 免責事項
 
-> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hype and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hype and trendy does not always mean best suited for the job.
+> このロードマップの目的は、見通しについてのアイデアを提供することです。ロードマップは、誇大広告やトレンディなものを勧めるのではなく、次に何を学ぶべきかについて混乱している場合に役立ちます。あるツールが他のツールよりも他のツールに適している理由について理解を深め、誇大広告やトレンディなことが必ずしも仕事に最適であるとは限らないことを忘れないでください。
 
 ## Give a Star! :star:
 
-If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+このプロジェクトが好きな場合、またはこのプロジェクトを使用して解決策を学習または開始する場合は、スターを付けてください。 お願いします！
 
-## Roadmap
+## ロードマップ
 
-![Roadmap](./golang-developer-roadmap.png)
+![Roadmap](./golang-developer-roadmap-ja-JP.png)
 
 ## Resources
 
-1. Prerequisites
+1. 前提条件 
 
    - [Go](https://golangbot.com/)
    - [Go Modules](https://blog.golang.org/using-go-modules)
    - [SQL](https://www.w3schools.com/sql/default.asp)
 
-2. General Development Skills
+2. 一般的な開発スキル
 
    - Learn GIT, create a few repositories on GitHub, share your code with other people
    - Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
@@ -37,11 +37,11 @@ If you like or are using this project to learn or start your solution, please gi
    - Solid principles, architectural & design patterns, ecc
    - Basics of software testing (unit, integration, e2e)
 
-3. CLI Tools
+3. CLI ツール
    1. [cobra](https://github.com/spf13/cobra)
    2. [urfave/cli](https://github.com/urfave/cli)
 
-4. Web Frameworks + Routers
+4. Web フレームワーク + Routers
 
    1. [Echo](https://github.com/labstack/echo)
    2. [Beego](https://github.com/astaxie/beego)
@@ -49,18 +49,18 @@ If you like or are using this project to learn or start your solution, please gi
    4. [Revel](https://github.com/revel/revel)
    5. [Chi](https://github.com/go-chi/chi)
 
-5. Databases
+5. データベース
 
-   1. Relational
+   1. リレーショナル
       1. [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
       2. [PostgreSQL](https://www.postgresql.org/)
       3. [MariaDB](https://mariadb.org/)
       4. [MySQL](https://www.mysql.com/)
       5. [CockroachDB](https://www.cockroachlabs.com/) 
-   2. Cloud Databases
+   2. クラウドデータベース
       - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db)
       - [DynamoDB](https://aws.amazon.com/dynamodb/)
-   3. Search Engines
+   3. 検索エンジン
       - [ElasticSearch](https://www.elastic.co/)
       - [Solr](http://lucene.apache.org/solr/)
       - [Sphinx](http://sphinxsearch.com/)
@@ -76,14 +76,14 @@ If you like or are using this project to learn or start your solution, please gi
    1. [Gorm](https://github.com/jinzhu/gorm)
    2. [Xorm](https://github.com/go-xorm/xorm)
 
-7. Caching
+7. キャッシング
 
    1. [GCache](https://github.com/bluele/gcache)
    2. Distributed Cache
       1. [Go-Redis](https://github.com/go-redis/redis)
       2. [GoMemcached](https://github.com/bradfitz/gomemcache)
 
-8. Logging
+8. ロギング
 
    1. Log Frameworks
       - [Zap](https://github.com/uber-go/zap)
@@ -95,10 +95,10 @@ If you like or are using this project to learn or start your solution, please gi
    3. Distributed Tracing
       - [Jaeger](https://www.jaegertracing.io/)
 
-9. Real-Time Communication
+9. リアルタイム通信
    1. [Socket.IO](https://socket.io/)
 
-10. API Clients
+10. API クライアント
 
     1. REST
        - [Gentleman](https://github.com/h2non/gentleman)
@@ -108,7 +108,7 @@ If you like or are using this project to learn or start your solution, please gi
        - [gqlgen](https://github.com/99designs/gqlgen)
        - [graphql-go](https://github.com/graph-gophers/graphql-go)
 
-11. Good to Know
+11. 知っておきたいライブラリ
 
     - [Validator](https://github.com/chriso/validator.js/)
     - [Glow](https://github.com/pytorch/glow)
@@ -116,7 +116,7 @@ If you like or are using this project to learn or start your solution, please gi
     - [Authboss](https://github.com/volatiletech/authboss)
     - [Go-Underscore](https://github.com/ahl5esoft/golang-underscore)
 
-12. Testing
+12. テスト
 
     1. Unit, Behavior, Integration Testing
        1. [GoMock](https://github.com/golang/mock)
@@ -130,12 +130,12 @@ If you like or are using this project to learn or start your solution, please gi
        - [Selenium](https://github.com/tebeka/selenium)
        - [Endly](https://github.com/viant/endly)
 
-13. Task Scheduling
+13. タスクスケジューリング
 
     - [Gron](https://github.com/roylee0704/gron)
     - [JobRunner](https://github.com/bamzi/jobrunner)
 
-14. MicroServices
+14. マイクロサービス
 
     1. Message-Broker
        - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-go.html)
@@ -154,22 +154,22 @@ If you like or are using this project to learn or start your solution, please gi
          - [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway)
          - [Twirp](https://github.com/twitchtv/twirp)
 
-15. [Go-Patterns](https://github.com/tmrts/go-patterns)
+15. [Go パターンズ](https://github.com/tmrts/go-patterns)
 
-## Wrap Up
+## 最後に
 
-If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+ロードマップを改善できると思われる場合または更新情報がある場合はPRまたはIssueを投稿してください。また、私はこれを改善し続けるので、このリポジトリにスターを付けることを再度お勧めします。
 
-Idea from : [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
+アイディア : [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 
-## Contribution
+## 貢献について
 
-The roadmap is built using [Draw.io](https://www.draw.io/). Project file can be found at `golang-developer-roadmap.xml` file. To modify it, open draw.io, click **Open Existing Diagram** and choose `xml` file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with [Compressor.io](https://compressor.io/compress)).
+ロードマップは[Draw.io](https://www.draw.io/)を使用して作成されています。プロジェクトファイルは  `golang-developer-roadmap-ja-JP.xml` ファイルにあります。 変更するには、draw.ioを開き、**Open Existing Diagram**をクリックして、プロジェクトで `xml` ファイルを選択すると、ロードマップが開きます。それを更新し、ReadMeの画像をアップロードして更新し、PRを作成します（400％ズームでpngとしてエクスポートし、[Compressor.io](https://compressor.io/compress)で縮小します）
 
-- Open a pull request with improvements
-- Discuss ideas in issues
-- Spread the word
+- 改善されたPRを開く
+- 課題のアイデアについて話し合う
+- 世界に公開する
 
-## License
+## ライセンス
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
