@@ -142,7 +142,8 @@ If you like or are using this project to learn or start your solution, please gi
        - [Apache Kafka](https://kafka.apache.org/)
        - [ActiveMQ](https://github.com/apache/activemq)
        - [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
-    2. Message-Bus
+    2. Building message-driven
+       - [Watermill](https://github.com/ThreeDotsLabs/watermill)
        - [Message-Bus](https://github.com/vardius/message-bus)
     3. Frameworks
          - [GoKit](https://github.com/go-kit/kit)
