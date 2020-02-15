@@ -110,7 +110,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 11. Good to Know
 
-    - [Validator](https://github.com/chriso/validator.js/)
+    - [Validator](https://github.com/go-playground/validator)
     - [Glow](https://github.com/pytorch/glow)
     - [GJson](https://github.com/tidwall/gjson)
     - [Authboss](https://github.com/volatiletech/authboss)
