@@ -111,7 +111,7 @@
 
 11. 知っておきたいライブラリ
 
-    - [Validator](https://github.com/chriso/validator.js/)
+    - [Validator](https://github.com/go-playground/validator)
     - [Glow](https://github.com/pytorch/glow)
     - [GJson](https://github.com/tidwall/gjson)
     - [Authboss](https://github.com/volatiletech/authboss)
