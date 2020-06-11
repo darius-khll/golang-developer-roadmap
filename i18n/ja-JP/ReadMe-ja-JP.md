@@ -29,13 +29,13 @@
 
 2. 一般的な開発スキル
 
-   - Learn GIT, create a few repositories on GitHub, share your code with other people
-   - Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-   - Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
-   - Read a few books about algorithms and data structures
-   - Learn about implementation of a basic Authentication
-   - Solid principles, architectural & design patterns, ecc
-   - Basics of software testing (unit, integration, e2e)
+   - GIT を学部。GitHub でいくつかのリポジトリを作成し、他の人とコードを共有する。
+   - HTTP(S)プロトコル、リクエストメソッドを知る (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+   - Google検索で疑問を解決できる。
+   - アルゴリズムやデータ構造に関する本を何冊か読む。
+   - 基本的な認証機能の実装について学ぶ。
+   - SOLID原則、アーキテクチャとデザインパターン など
+   - ソフトウェアテストの基礎（ユニットテスト、インテグレーションテスト、e2eテスト）
 
 3. CLI ツール
    1. [cobra](https://github.com/spf13/cobra)
