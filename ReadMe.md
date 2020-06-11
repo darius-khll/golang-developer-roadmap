@@ -23,6 +23,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 1. Prerequisites
 
+   - [Golang Tutorial](https://divyanshushekhar.com/category/golang)
    - [Go](https://golangbot.com/)
    - [Go Modules](https://blog.golang.org/using-go-modules)
    - [SQL](https://www.w3schools.com/sql/default.asp)
