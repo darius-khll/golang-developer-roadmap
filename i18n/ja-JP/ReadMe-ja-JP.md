@@ -43,11 +43,12 @@
 
 4. Web フレームワーク + Routers
 
-   1. [Echo](https://github.com/labstack/echo)
-   2. [Beego](https://github.com/astaxie/beego)
-   3. [Gin](https://github.com/gin-gonic/gin)
-   4. [Revel](https://github.com/revel/revel)
-   5. [Chi](https://github.com/go-chi/chi)
+   1. [Beego](https://github.com/astaxie/beego)
+   2. [Chi](https://github.com/go-chi/chi)
+   3. [Echo](https://github.com/labstack/echo)
+   4. [Fiber](https://github.com/gofiber/fiber)
+   5. [Gin](https://github.com/gin-gonic/gin)
+   6. [Revel](https://github.com/revel/revel)
 
 5. データベース
 
@@ -95,8 +96,8 @@
    3. Distributed Tracing
       - [Jaeger](https://www.jaegertracing.io/)
 
-9. リアルタイム通信
-   1. [Socket.IO](https://socket.io/)
+9.  リアルタイム通信
+   4. [Socket.IO](https://socket.io/)
 
 10. API クライアント
 
