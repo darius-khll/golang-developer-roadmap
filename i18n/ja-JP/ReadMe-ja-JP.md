@@ -1,8 +1,8 @@
-# Go 開発者のロードマップ
+# Go開発者のロードマップ
 
 > 2020年に[Go](https://golang.org/)開発者になるためのロードマップ：
 
-以下に、Go開発者になるために学習したい技術やライブラリを示すチャートを示します。 このチャートは、「*Go開発者として次に学ぶべきことは何ですか？*」と私に問う人向けに作成しました。
+以下に、Go開発者となるために学習したい技術やライブラリを示すチャートを示します。 このチャートは、「*Go開発者として次に学ぶべきことは何ですか？*」と私へ問う人のために作成しました。
 
 [English](../../ReadMe.md)
 [中文版](./i18n/zh-CN/ReadMe-zh-CN.md)
@@ -21,7 +21,7 @@
 
 ## Resources
 
-1. 前提条件 
+1. 前提条件
 
    - [Go](https://golangbot.com/)
    - [Go Modules](https://blog.golang.org/using-go-modules)
@@ -29,19 +29,19 @@
 
 2. 一般的な開発スキル
 
-   - GIT を学部。GitHub でいくつかのリポジトリを作成し、他の人とコードを共有する。
+   - Gitを学ぶ。GitHubでいくつかのリポジトリを作成し、他の人とコードを共有する。
    - HTTP(S)プロトコル、リクエストメソッドを知る (GET, POST, PUT, PATCH, DELETE, OPTIONS)
    - Google検索で疑問を解決できる。
    - アルゴリズムやデータ構造に関する本を何冊か読む。
    - 基本的な認証機能の実装について学ぶ。
-   - SOLID原則、アーキテクチャとデザインパターン など
+   - SOLID原則、アーキテクチャとデザインパターンなど
    - ソフトウェアテストの基礎（ユニットテスト、インテグレーションテスト、e2eテスト）
 
-3. CLI ツール
+3. CLIツール
    1. [cobra](https://github.com/spf13/cobra)
    2. [urfave/cli](https://github.com/urfave/cli)
 
-4. Web フレームワーク + Routers
+4. Webフレームワーク + Routers
 
    1. [Beego](https://github.com/astaxie/beego)
    2. [Chi](https://github.com/go-chi/chi)
@@ -57,7 +57,7 @@
       2. [PostgreSQL](https://www.postgresql.org/)
       3. [MariaDB](https://mariadb.org/)
       4. [MySQL](https://www.mysql.com/)
-      5. [CockroachDB](https://www.cockroachlabs.com/) 
+      5. [CockroachDB](https://www.cockroachlabs.com/)
    2. クラウドデータベース
       - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db)
       - [DynamoDB](https://aws.amazon.com/dynamodb/)
@@ -96,10 +96,10 @@
    3. Distributed Tracing
       - [Jaeger](https://www.jaegertracing.io/)
 
-9.  リアルタイム通信
+9. リアルタイム通信
    4. [Socket.IO](https://socket.io/)
 
-10. API クライアント
+10. APIクライアント
 
     1. REST
        - [Gentleman](https://github.com/h2non/gentleman)
@@ -160,7 +160,7 @@
 
 ## 最後に
 
-ロードマップを改善できると思われる場合または更新情報がある場合はPRまたはIssueを投稿してください。また、私はこれを改善し続けるので、このリポジトリにスターを付けることを再度お勧めします。
+ロードマップを改善できると思われる場合または更新情報がある場合はPRまたはIssueを投稿してください。また、私はこれを改善し続けるので、このリポジトリにスターを付けることを再度オススメします。
 
 アイディア : [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 
