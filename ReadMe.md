@@ -74,7 +74,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 6. ORMs
 
-   1. [Gorm](https://github.com/jinzhu/gorm)
+   1. [Gorm](https://github.com/go-gorm/gorm)
    2. [Xorm](https://github.com/go-xorm/xorm)
 
 7. Caching
