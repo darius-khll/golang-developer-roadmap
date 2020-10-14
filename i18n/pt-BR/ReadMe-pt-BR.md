@@ -1,48 +1,48 @@
-# Go Developer Roadmap
+# Roteiro do Desenvolvedor Go
 
-> Roadmap to becoming a [Go](https://golang.org/) developer in 2020:
+> Roteiro para se tornar um desenvolvedor [Go](https://golang.org/) em 2020:
 
-Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Go developer. I made this chart as a tip for everyone who asks me, "*What should I learn next as a Go developer?*"
+Abaixo você irá encontrar um gráfico demonstrando os caminhos que você pode tomar e as bibliotecas que você poderia querer aprender para se tornar um desenvolvedor Go. Eu fiz este gráfico como uma dica para todo mundo que me pergunta, "*O que eu deveria aprender na sequência como um desenvolvedor Go?*"
 
-[中文版](./i18n/zh-CN/ReadMe-zh-CN.md)
-[日本語版](./i18n/ja-JP/ReadMe-ja-JP.md)
-[Versão em Português do Brasil](./i18n/pt-BR/ReadMe-pt-BR.md)
+[English](../../ReadMe.md)
+[中文版](../zh-CN/ReadMe-zh-CN.md)
+[日本語版](../ja-JP/ReadMe-ja-JP.md)
 
-## Disclaimer
+## Aviso Legal
 
-> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hype and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hype and trendy does not always mean best suited for the job.
+> O propósito deste roteiro é te dar um panorama. O roteiro irá te guiar se você estiver confuso sobre o que aprender na sequência, ao invés de te encorajar a selecionar o que está na moda. Você deve compreender por que uma ferramenta seria melhor para alguns casos do que outra e lembrar que o fato de algo estar na moda não necessariamente sempre significa que isto seja a melhor opção para o trabalho que você deseja fazer.
 
-## Give a Star! :star:
+## Dê uma Estrela! :star:
 
-If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Se você gostar ou estiver usando este projeto para aprender ou iniciar sua solução, por favor dê uma estrela para ele. Muito obrigado!
 
-## Roadmap
+## Roteiro
 
-![Roadmap](./golang-developer-roadmap.png)
+![Roadmap](./golang-developer-roadmap-pt-BR.png)
 
-## Resources
+## Recursos
 
-1. Prerequisites
+1. Prerequisitos
 
    - [Go](https://golangbot.com/)
    - [Go Modules](https://blog.golang.org/using-go-modules)
    - [SQL](https://www.w3schools.com/sql/default.asp)
 
-2. General Development Skills
+2. Habilidades de Desenvolvimento Gerais
 
-   - Learn GIT, create a few repositories on GitHub, share your code with other people
-   - Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-   - Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
-   - Read a few books about algorithms and data structures
-   - Learn about implementation of a basic Authentication
-   - Solid principles, architectural & design patterns, ecc
-   - Basics of software testing (unit, integration, e2e)
+   - Aprenda GIT, crie alguns repositórios no GitHub, compartilhe seu código com outras pessoas
+   - Conheça o protocolo HTTP(S), métodos de requisição (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+   - Não fique com receio de usar o Google, [Pesquisa avançada com o Google](http://www.powersearchingwithgoogle.com/)
+   - Leia alguns livros sobre algoritmos e estruturas de dados
+   - Aprenda sobre a fazer uma Autenticação básica
+   - Princípios SOLID, padrões arquiteturais e de projeto, etc
+   - Noções básicas de teste de software (unitários, integração e de ponta a ponta)
 
-3. CLI Tools
+3. Ferramentas de Linha de Comando
    1. [cobra](https://github.com/spf13/cobra)
    2. [urfave/cli](https://github.com/urfave/cli)
 
-4. Web Frameworks + Routers
+4. Frameworks Web + Routers
 
    1. [Beego](https://github.com/astaxie/beego)
    2. [Chi](https://github.com/go-chi/chi)
@@ -51,18 +51,18 @@ If you like or are using this project to learn or start your solution, please gi
    5. [Gin](https://github.com/gin-gonic/gin)
    6. [Revel](https://github.com/revel/revel)
 
-5. Databases
+5. Bancos de Dados
 
-   1. Relational
+   1. Relacionais
       1. [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
       2. [PostgreSQL](https://www.postgresql.org/)
       3. [MariaDB](https://mariadb.org/)
       4. [MySQL](https://www.mysql.com/)
       5. [CockroachDB](https://www.cockroachlabs.com/) 
-   2. Cloud Databases
+   2. Bancos de Dados na Nuvem
       - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db)
       - [DynamoDB](https://aws.amazon.com/dynamodb/)
-   3. Search Engines
+   3. Mecanismos de Busca
       - [ElasticSearch](https://www.elastic.co/)
       - [Solr](http://lucene.apache.org/solr/)
       - [Sphinx](http://sphinxsearch.com/)
@@ -73,34 +73,34 @@ If you like or are using this project to learn or start your solution, please gi
       - [RavenDB](https://github.com/ravendb/ravendb)
       - [CouchDB](http://couchdb.apache.org/)
 
-6. ORMs
+6. Mapeamento Objeto Relacional (ORM)
 
    1. [Gorm](https://github.com/go-gorm/gorm)
    2. [Xorm](https://github.com/go-xorm/xorm)
 
-7. Caching
+7. Cacheamento
 
    1. [GCache](https://github.com/bluele/gcache)
-   2. Distributed Cache
+   2. Cache Distribuído
       1. [Go-Redis](https://github.com/go-redis/redis)
       2. [GoMemcached](https://github.com/bradfitz/gomemcache)
 
-8. Logging
+8. Gerenciamento de Logs
 
-   1. Log Frameworks
+   1. Frameworks de Log
       - [Zap](https://github.com/uber-go/zap)
       - [ZeroLog](https://github.com/rs/zerolog)
       - [Logrus](https://github.com/sirupsen/logrus)
-   2. Log Management System
+   2. Sistema de Gerenciamento de Log
       - [Sentry.io](http://sentry.io)
       - [Loggly.com](https://loggly.com)
-   3. Distributed Tracing
+   3. Rastreamento Distribuído
       - [Jaeger](https://www.jaegertracing.io/)
 
-9. Real-Time Communication
+9. Comunicação em Tempo Real
    1. [Socket.IO](https://socket.io/)
 
-10. API Clients
+10. Clientes de API
 
     1. REST
        - [Gentleman](https://github.com/h2non/gentleman)
@@ -110,7 +110,7 @@ If you like or are using this project to learn or start your solution, please gi
        - [gqlgen](https://github.com/99designs/gqlgen)
        - [graphql-go](https://github.com/graph-gophers/graphql-go)
 
-11. Good to Know
+11. Interessante saber
 
     - [Validator](https://github.com/go-playground/validator)
     - [Glow](https://github.com/pytorch/glow)
@@ -118,9 +118,9 @@ If you like or are using this project to learn or start your solution, please gi
     - [Authboss](https://github.com/volatiletech/authboss)
     - [Go-Underscore](https://github.com/ahl5esoft/golang-underscore)
 
-12. Testing
+12. Testes
 
-    1. Unit, Behavior, Integration Testing
+    1. Testes Unitários, de Comportamento, Integração
        1. [GoMock](https://github.com/golang/mock)
        2. [Testify](https://github.com/stretchr/testify)
        3. [GinkGo](https://github.com/onsi/ginkgo)
@@ -128,23 +128,23 @@ If you like or are using this project to learn or start your solution, please gi
        5. [GoCheck](https://github.com/go-check/check)
        6. [GoDog](https://github.com/DATA-DOG/godog)
        7. [GoConvey](https://github.com/smartystreets/goconvey)
-    2. E2E Testing
+    2. Testes de ponta a ponta
        - [Selenium](https://github.com/tebeka/selenium)
        - [Endly](https://github.com/viant/endly)
 
-13. Task Scheduling
+13. Agendamento de Tarefas
 
     - [Gron](https://github.com/roylee0704/gron)
     - [JobRunner](https://github.com/bamzi/jobrunner)
 
-14. MicroServices
+14. Micro Serviços
 
-    1. Message-Broker
+    1. Intermediador de Mensagens
        - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-go.html)
        - [Apache Kafka](https://kafka.apache.org/)
        - [ActiveMQ](https://github.com/apache/activemq)
        - [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
-    2. Building message-driven
+    2. Construindo voltado a eventos
        - [Watermill](https://github.com/ThreeDotsLabs/watermill)
        - [Message-Bus](https://github.com/vardius/message-bus)
     3. Frameworks
@@ -157,22 +157,22 @@ If you like or are using this project to learn or start your solution, please gi
          - [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway)
          - [Twirp](https://github.com/twitchtv/twirp)
 
-15. [Go-Patterns](https://github.com/tmrts/go-patterns)
+15. [Padrões Go](https://github.com/tmrts/go-patterns)
 
-## Wrap Up
+## Conclusão
 
-If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+Se você pensa que este roteiro pode ser melhorado, por favor abra um PR com qualquer atualização ou submeta eventuais *issues*. Além disso, eu vou continuar a melhorar o roteiro, então você pode querer marcar este repositório com uma estrela para revisitá-lo.
 
-Idea from : [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
+Ideia de : [Roteiro do Desenvolvedor ASP.NET Core](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 
-## Contribution
+## Contribuindo
 
-The roadmap is built using [Draw.io](https://www.draw.io/). Project file can be found at `golang-developer-roadmap.xml` file. To modify it, open draw.io, click **Open Existing Diagram** and choose `xml` file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with [Compressor.io](https://compressor.io/compress)).
+O roteiro foi construído usando [Draw.io](https://www.draw.io/). O projeto pode ser encontrado no arquivo `golang-developer-roadmap.xml`. Para modificá-lo, abra o draw.io, clique em **Abrir Diagrama Existente** e selecione o arquivo `xml` com o projeto. Ele irá abrir o roteiro para você. Atualize-o, faça upload e atualize a imagem no arquivo readme e crie um PR (exporte a imagem como PNG com 400% de zoom e minifique-a com o [Compressor.io](https://compressor.io/compress)).
 
-- Open a pull request with improvements
-- Discuss ideas in issues
-- Spread the word
+- Abra um *pull request* com suas melhorias
+- Discuta ideias em *issues*
+- Divulgue
 
-## License
+## Licença
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
