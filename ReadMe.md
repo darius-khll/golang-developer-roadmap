@@ -6,6 +6,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 [中文版](./i18n/zh-CN/ReadMe-zh-CN.md)
 [日本語版](./i18n/ja-JP/ReadMe-ja-JP.md)
+[Versão em Português do Brasil](./i18n/pt-BR/ReadMe-pt-BR.md)
 
 ## Disclaimer
 
