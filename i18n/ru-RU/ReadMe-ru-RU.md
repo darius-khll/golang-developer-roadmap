@@ -20,7 +20,7 @@
 
 ## Roadmap
 
-![Roadmap](./golang-developer-roadmap.png)
+![Roadmap](./golang-developer-roadmap-ru-RU.png)
 
 ## Resources
 
