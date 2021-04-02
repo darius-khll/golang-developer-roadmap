@@ -1,26 +1,26 @@
 # Go Developer Roadmap
 
-> Roadmap to becoming a [Go](https://golang.org/) developer in 2020:
+> Roadmap чтобы стать [Go](https://golang.org/) разработчиом в 2020 году:
 
-Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Go developer. I made this chart as a tip for everyone who asks me, "*What should I learn next as a Go developer?*"
+Ниже вы можете найти диаграмму, демонстрирующую пути и библиотеки, которые вы можете выбрать, чтобы стать разработчиком Go. Я сделал эту диаграмму в качестве подсказки для всех, кто спрашивает меня: «Что я должен изучить дальше как разработчик на Go?»
 
+[English](../../ReadMe.md)
 [中文版](./i18n/zh-CN/ReadMe-zh-CN.md)
 [日本語版](./i18n/ja-JP/ReadMe-ja-JP.md)
 [Versão em Português do Brasil](./i18n/pt-BR/ReadMe-pt-BR.md)
 [한국어](./i18n/ko-KR/ReadMe-ko-KR.md)
-[Русский](./i18n/ru-RU/ReadMe-ru-RU.md)
 
 ## Disclaimer
 
-> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hype and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hype and trendy does not always mean best suited for the job.
+> Цель этой дорожной карты дать вам представление о мире Go. Она поможет вам, если вы не знаете что изучить дальше, вместо того, чтобы побуждать вас к выбору того, что находится в тренде или является модным. Вы должны понимать, почему один инструмент подходит для некоторых случаев лучше, чем другой. А также понимать, что инструмент находящийся в тренде и моде, не всегда означает, что он лучше всего подходит для работы.
 
 ## Give a Star! :star:
 
-If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Если вам нравится этот проект или вы используете его для изучения, а также для построения своего решения, поставьте ему звезду. Спасибо!
 
 ## Roadmap
 
-![Roadmap](./golang-developer-roadmap.png)
+![Roadmap](./golang-developer-roadmap-ru-RU.png)
 
 ## Resources
 
@@ -32,13 +32,13 @@ If you like or are using this project to learn or start your solution, please gi
 
 2. General Development Skills
 
-   - Learn GIT, create a few repositories on GitHub, share your code with other people
-   - Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-   - Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
-   - Read a few books about algorithms and data structures
-   - Learn about implementation of a basic Authentication
-   - Solid principles, architectural & design patterns, ecc
-   - Basics of software testing (unit, integration, e2e)
+   - Изучите GIT, создайте несколько репозиториев на GitHub, поделитесь своим кодом с другими людьми
+   - Изучите HTTP(S) protocol, методы запросов (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+   - Не бойтесь использовать Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
+   - Прочитайте несколько книг об алгоритмах и структурах данных
+   - Узнайте о реализации базовой аутентификации
+   - Изучите принципы SOLID, архитектурные паттерны и паттерны проектирования, и т.д.
+   - Изучите основы тестирования ПО (unit, integration, e2e)
 
 3. CLI Tools
    1. [cobra](https://github.com/spf13/cobra)
@@ -165,17 +165,17 @@ If you like or are using this project to learn or start your solution, please gi
 
 ## Wrap Up
 
-If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+Если вы считаете, что дорожную карту можно улучшить, пожалуйста откройте PR с любыми обновлениями или сообщениями об ошибках. Кроме того, я буду продолжать улучшать это, так что вы, возможно, захотите пометить :star: этот репозиторий для повторного посещения.
 
-Idea from : [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
+Идея дорожной карты взята у: [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 
 ## Contribution
 
-The roadmap is built using [Draw.io](https://www.draw.io/). Project file can be found at `golang-developer-roadmap.xml` file. To modify it, open draw.io, click **Open Existing Diagram** and choose `xml` file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with [Compressor.io](https://compressor.io/compress)).
+Дорожная карта построена с использованием [Draw.io](https://www.draw.io/). Файл проекта `golang-developer-roadmap-ru-RU.xml`. Чтобы модифицировать его, откройте draw.io, нажмите **Open Existing Diagram** и выберите `xml` файл с проектом. Это откроет дорожную карту для вас. Обновите её, загрузите и обновите изображение в Readme (экспортируйте PNG с 400% увеличением, а также минифицируйте его с помощью [Compressor.io](https://compressor.io/compress)).
 
-- Open a pull request with improvements
-- Discuss ideas in issues
-- Spread the word
+- Откройте pull request c улучшениями
+- Обсудите идею в issues
+- Расскажите всем
 
 ## License
 
