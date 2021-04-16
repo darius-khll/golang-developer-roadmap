@@ -1,14 +1,15 @@
 # Go Developer Roadmap
 
-> Roadmap чтобы стать [Go](https://golang.org/) разработчиом в 2020 году:
+> Roadmap чтобы стать [Go](https://golang.org/) разработчиом в 2021 году:
 
 Ниже вы можете найти диаграмму, демонстрирующую пути и библиотеки, которые вы можете выбрать, чтобы стать разработчиком Go. Я сделал эту диаграмму в качестве подсказки для всех, кто спрашивает меня: «Что я должен изучить дальше как разработчик на Go?»
 
 [English](../../ReadMe.md)
-[中文版](./i18n/zh-CN/ReadMe-zh-CN.md)
-[日本語版](./i18n/ja-JP/ReadMe-ja-JP.md)
-[Versão em Português do Brasil](./i18n/pt-BR/ReadMe-pt-BR.md)
-[한국어](./i18n/ko-KR/ReadMe-ko-KR.md)
+[中文版](../zh-CN/ReadMe-zh-CN.md)
+[日本語版](../ja-JP/ReadMe-ja-JP.md)
+[Versão em Português do Brasil](../pt-BR/ReadMe-pt-BR.md)
+[한국어](../ko-KR/ReadMe-ko-KR.md)
+[Українська](../uk-UA/ReadMe-uk-UA.md)
 
 ## Disclaimer
 
