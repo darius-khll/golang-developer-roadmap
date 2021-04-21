@@ -8,6 +8,10 @@
 
 [English](../../ReadMe.md)
 [日本語版](../ja-JP/ReadMe-ja-JP.md)
+[Versão em Português do Brasil](../pt-BR/ReadMe-pt-BR.md)
+[한국어](../ko-KR/ReadMe-ko-KR.md)
+[Русский](../ru-RU/ReadMe-ru-RU.md)
+[Українська](../uk-UA/ReadMe-uk-UA.md)
 
 ## **免责声明**
 

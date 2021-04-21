@@ -5,11 +5,11 @@
 Нижче Ви можете знайти діаграму, яка демонструє шляхи та бібліотеки, які Ви можете вибрати для того, щоб стати Go розробником. Я зробив цю діаграму в якості підказки для всіх, хто запитує мене: «Що я повинен вивчити далі як розробник на Go?»
 
 [English](../../ReadMe.md)
-[中文版](./i18n/zh-CN/ReadMe-zh-CN.md)
-[日本語版](./i18n/ja-JP/ReadMe-ja-JP.md)
-[Versão em Português do Brasil](./i18n/pt-BR/ReadMe-pt-BR.md)
-[한국어](./i18n/ko-KR/ReadMe-ko-KR.md)
-[Русский](./i18n/ru-RU/ReadMe-ru-RU.md)
+[中文版](../zh-CN/ReadMe-zh-CN.md)
+[日本語版](../ja-JP/ReadMe-ja-JP.md)
+[Versão em Português do Brasil](../pt-BR/ReadMe-pt-BR.md)
+[한국어](../ko-KR/ReadMe-ko-KR.md)
+[Русский](../ru-RU/ReadMe-ru-RU.md)
 
 ## Застереження
 

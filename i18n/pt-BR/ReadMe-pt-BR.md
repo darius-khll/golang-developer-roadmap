@@ -7,6 +7,9 @@ Abaixo você irá encontrar um gráfico demonstrando os caminhos que você pode 
 [English](../../ReadMe.md)
 [中文版](../zh-CN/ReadMe-zh-CN.md)
 [日本語版](../ja-JP/ReadMe-ja-JP.md)
+[한국어](../ko-KR/ReadMe-ko-KR.md)
+[Русский](../ru-RU/ReadMe-ru-RU.md)
+[Українська](../uk-UA/ReadMe-uk-UA.md)
 
 ## Aviso Legal
 
