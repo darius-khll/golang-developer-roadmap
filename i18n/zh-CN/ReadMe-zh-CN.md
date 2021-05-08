@@ -151,6 +151,7 @@
        - [Message-Bus](https://github.com/vardius/message-bus)
     3. 框架
          - [GoKit](https://github.com/go-kit/kit)
+         - [go-zero](https://github.com/tal-tech/go-zero)
          - [Micro](https://github.com/micro/go-micro)
          - [rpcx](https://github.com/smallnest/rpcx)
     4. RPC
