@@ -5,7 +5,8 @@
 Go 개발자가 되기 위해 학습하고 싶은 기술이나 라이브러리를 보여주는 로드맵입니다. 이 로드맵은 *Go 개발자로서 다음에 배워야 할 게 뭔가요?* 라고 묻는 사람들을 위해 작성되었습니다.
 
 [English](../../ReadMe.md)
-[中文版](../zh-CN/ReadMe-zh-CN.md)
+[简体中文版](../zh-CN/ReadMe-zh-CN.md)
+[繁體中文版](../zh-TW/ReadMe-zh-TW.md)
 [日本語版](../ja-JP/ReadMe-ja-JP.md)
 [Versão em Português do Brasil](../pt-BR/ReadMe-pt-BR.md)
 [Русский](../ru-RU/ReadMe-ru-RU.md)

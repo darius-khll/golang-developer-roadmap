@@ -5,7 +5,8 @@
 Abaixo você irá encontrar um gráfico demonstrando os caminhos que você pode tomar e as bibliotecas que você poderia querer aprender para se tornar um desenvolvedor Go. Eu fiz este gráfico como uma dica para todo mundo que me pergunta, "*O que eu deveria aprender na sequência como um desenvolvedor Go?*"
 
 [English](../../ReadMe.md)
-[中文版](../zh-CN/ReadMe-zh-CN.md)
+[简体中文版](../zh-CN/ReadMe-zh-CN.md)
+[繁體中文版](../zh-TW/ReadMe-zh-TW.md)
 [日本語版](../ja-JP/ReadMe-ja-JP.md)
 [한국어](../ko-KR/ReadMe-ko-KR.md)
 [Русский](../ru-RU/ReadMe-ru-RU.md)

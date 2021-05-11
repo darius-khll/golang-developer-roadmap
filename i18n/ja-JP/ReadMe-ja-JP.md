@@ -5,7 +5,8 @@
 以下に、Go開発者となるために学習したい技術やライブラリを示すチャートを示します。 このチャートは、「*Go開発者として次に学ぶべきことは何ですか？*」と私へ問う人のために作成しました。
 
 [English](../../ReadMe.md)
-[中文版](../zh-CN/ReadMe-zh-CN.md)
+[简体中文版](../zh-CN/ReadMe-zh-CN.md)
+[繁體中文版](../zh-TW/ReadMe-zh-TW.md)
 [Versão em Português do Brasil](../pt-BR/ReadMe-pt-BR.md)
 [한국어](../ko-KR/ReadMe-ko-KR.md)
 [Русский](../ru-RU/ReadMe-ru-RU.md)
