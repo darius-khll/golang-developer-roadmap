@@ -152,6 +152,7 @@ Se você gostar ou estiver usando este projeto para aprender ou iniciar sua solu
        - [Message-Bus](https://github.com/vardius/message-bus)
     3. Frameworks
          - [GoKit](https://github.com/go-kit/kit)
+         - [go-zero](https://github.com/tal-tech/go-zero)
          - [Micro](https://github.com/micro/go-micro)
          - [rpcx](https://github.com/smallnest/rpcx)
     4. RPC
