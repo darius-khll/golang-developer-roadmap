@@ -7,6 +7,7 @@
 在下边有一个路线图，如果你想要成为一名Go语言的开发者的话，你可以沿着这张图里面的路径去学习，里面记录了一些你可能也想学习的库。当你问到：”我想成为一名Go语言开发者，接下来我要学些什么？“，我做的这个路线图就是一个很好的建议。
 
 [English](../../ReadMe.md)
+[繁體中文版](../zh-TW/ReadMe-zh-TW.md)
 [日本語版](../ja-JP/ReadMe-ja-JP.md)
 [Versão em Português do Brasil](../pt-BR/ReadMe-pt-BR.md)
 [한국어](../ko-KR/ReadMe-ko-KR.md)
