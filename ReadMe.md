@@ -48,7 +48,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 4. Web Frameworks + Routers
 
-   1. [Beego](https://github.com/astaxie/beego)
+   1. [Beego](https://github.com/beego/beego)
    2. [Chi](https://github.com/go-chi/chi)
    3. [Echo](https://github.com/labstack/echo)
    4. [Fiber](https://github.com/gofiber/fiber)
