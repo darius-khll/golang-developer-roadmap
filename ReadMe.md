@@ -102,7 +102,8 @@ If you like or are using this project to learn or start your solution, please gi
       - [Jaeger](https://www.jaegertracing.io/)
 
 9. Real-Time Communication
-   1. [Socket.IO](https://socket.io/)
+   1. [Centrifugo](https://github.com/centrifugal/centrifugo)
+   2. [Melody](https://github.com/olahol/melody)
 
 10. API Clients
 
