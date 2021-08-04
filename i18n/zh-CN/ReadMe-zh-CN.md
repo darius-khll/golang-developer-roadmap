@@ -48,11 +48,12 @@
 
 4. 网页框架 + 路由
 
-   1. [Echo](https://github.com/labstack/echo)
-   2. [Beego](https://github.com/astaxie/beego)
-   3. [Gin](https://github.com/gin-gonic/gin)
-   4. [Revel](https://github.com/revel/revel)
-   5. [Chi](https://github.com/go-chi/chi)
+   1. [GoFrame](https://goframe.org/display/gf)
+   2. [Echo](https://github.com/labstack/echo)
+   3. [Beego](https://github.com/astaxie/beego)
+   4. [Gin](https://github.com/gin-gonic/gin)
+   5. [Revel](https://github.com/revel/revel)
+   6. [Chi](https://github.com/go-chi/chi)
 
 5. 数据库
 

@@ -49,11 +49,12 @@ If you like or are using this project to learn or start your solution, please gi
 4. Web Frameworks + Routers
 
    1. [Beego](https://github.com/beego/beego)
-   2. [Chi](https://github.com/go-chi/chi)
-   3. [Echo](https://github.com/labstack/echo)
-   4. [Fiber](https://github.com/gofiber/fiber)
-   5. [Gin](https://github.com/gin-gonic/gin)
-   6. [Revel](https://github.com/revel/revel)
+   2. [GoFrame](https://goframe.org/display/gf)
+   3. [Chi](https://github.com/go-chi/chi)
+   4. [Echo](https://github.com/labstack/echo)
+   5. [Fiber](https://github.com/gofiber/fiber)
+   6. [Gin](https://github.com/gin-gonic/gin)
+   7. [Revel](https://github.com/revel/revel)
 
 5. Databases
 
