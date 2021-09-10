@@ -11,7 +11,7 @@
     <a href="./i18n/ko-KR/ReadMe-ko-KR.md">한국어</a>
     <a href="./i18n/ru-RU/ReadMe-ru-RU.md">Русский</a>
     <a href="./i18n/uk-UA/ReadMe-uk-UA.md">Українська</a></p>
-<a href="./i18n/uk-UA/ReadMe-fa-IR.md">فارسی</a></p>
+    <a href="./i18n/uk-UA/ReadMe-fa-IR.md">فارسی</a></p>
 <h2 lang="fa" dir="rtl" align="right">سلب مسئولیت</h2>
 <blockquote lang="fa" dir="rtl" align="right">
     <p>هدف از ساخت این نقشه راه نشان دادن یک دورنما از ابزارهای توسعه در Golang است. اگر در مورد چیزهایی که باید یاد بگیرید دچار تردید شده اید این نقشه راه به شما کمک می کند. البته اصلا شما را تشویق به استفاده از ابزار خاصی نمیکند. شما خودتان باید درک این را داشته باشید هر ابزاری در چه مواردی از بقیه ابزار ها برتری دارد که برای توسعه نرم افزار خود، متناسب با نیازتان از کدام ابزار استفاده کنید. همیشه ابزار هایی که ترند میشوند لزوما بهترین انتخاب نیستند! </p>
@@ -19,7 +19,7 @@
 <h2 lang="fa" dir="rtl" align="right">ستاره بدهید! :star:</h2>
 <p lang="fa" dir="rtl" align="right">اگر از این نقشه راه خوشتان آمد یا از آن برای یافتن راه حلی برای توسعه نرم افزار هایتان استفاده م کنید، لطفا به این پروژه ستاره بدهید. متشکرم!</p>
 <h2 lang="fa" dir="rtl" align="right">نقشه راه</h2>
-<p lang="fa" dir="rtl" align="right"><img src="./golang-developer-roadmap.png" alt="Roadmap"></p>
+<p lang="fa" dir="rtl" align="right"><img src="./golang-developer-roadmap-fa-IR.png" alt="Roadmap"></p>
 <h2 lang="fa" dir="rtl" align="right">منابع</h2>
 <ol lang="fa" dir="rtl" align="right">
     <li><p>پیش نیازها</p>
