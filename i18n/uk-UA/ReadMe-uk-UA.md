@@ -11,6 +11,7 @@
 [Versão em Português do Brasil](../pt-BR/ReadMe-pt-BR.md)
 [한국어](../ko-KR/ReadMe-ko-KR.md)
 [Русский](../ru-RU/ReadMe-ru-RU.md)
+[فارسی](../fa-IR/ReadMe-fa-IR.md)
 
 ## Застереження
 

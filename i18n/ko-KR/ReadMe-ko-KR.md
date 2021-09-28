@@ -11,6 +11,7 @@ Go 개발자가 되기 위해 학습하고 싶은 기술이나 라이브러리�
 [Versão em Português do Brasil](../pt-BR/ReadMe-pt-BR.md)
 [Русский](../ru-RU/ReadMe-ru-RU.md)
 [Українська](../uk-UA/ReadMe-uk-UA.md)
+[فارسی](../fa-IR/ReadMe-fa-IR.md)
 
 # 면책 사항
 

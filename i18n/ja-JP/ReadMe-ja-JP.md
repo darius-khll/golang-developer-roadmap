@@ -11,6 +11,7 @@
 [한국어](../ko-KR/ReadMe-ko-KR.md)
 [Русский](../ru-RU/ReadMe-ru-RU.md)
 [Українська](../uk-UA/ReadMe-uk-UA.md)
+[فارسی](../fa-IR/ReadMe-fa-IR.md)
 
 ## 免責事項
 
