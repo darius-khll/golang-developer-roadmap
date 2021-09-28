@@ -1,5 +1,5 @@
 
-<div dir="rtl" align="right">
+<div dir="rtl">
 
 # خارطة طريق لمطور Go
 
