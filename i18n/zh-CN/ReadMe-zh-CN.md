@@ -161,6 +161,7 @@
          - [gRPC-Go](https://github.com/grpc/grpc-go)
          - [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway)
          - [Twirp](https://github.com/twitchtv/twirp)
+         - [Dubbo-Go](https://github.com/apache/dubbo-go)
 
 15. [Go-模式](https://github.com/tmrts/go-patterns)
 

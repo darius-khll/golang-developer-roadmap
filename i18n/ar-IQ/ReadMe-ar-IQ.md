@@ -1,8 +1,12 @@
-# Go Developer Roadmap
 
-> Roadmap to becoming a [Go](https://golang.org/) developer in 2021:
+<div dir="rtl">
 
-Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Go developer. I made this chart as a tip for everyone who asks me, "*What should I learn next as a Go developer?*"
+# خارطة طريق لمطور Go
+
+> خارطة طريق لتصبح مطور [Go](https://golang.org/) في 2021 
+
+أدناه يمكنك العثور على مخطط يوضح المسارات التي يمكنك أن تسلكها والمكتبات التي ترغب في تعلمها لتصبح مطور Go.
+لقد صنعت هذا المخطط كنصيحة او اجابة لكل من يسألني "*ما الشيء التالي الذي يجب تعلمه كمطور Go ؟*"
 
 [简体中文版](./i18n/zh-CN/ReadMe-zh-CN.md)
 [繁體中文版](./i18n/zh-TW/ReadMe-zh-TW.md)
@@ -12,41 +16,39 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 [Русский](./i18n/ru-RU/ReadMe-ru-RU.md)
 [Українська](./i18n/uk-UA/ReadMe-uk-UA.md)
 [العربية](i18n/ar-IQ/ReadMe-ar-IQ.md)
-## Disclaimer
+## إنكار
+> الهدف من خارطة الطريق هذه هو اعطائك فكرة عن ما يدور حولك. الخارطة ستوجهك إذا كنت متحيراً او متشككاً بشأن ما يجب أن تتعلمه في الخطوة القادمة. عوضا عن تشجيعك على اختيار ما هو شائع و عصري. يجب أن تنمي بعض الفهم عن سبب ملاءمة إحدى الأدوات لبعض الحالات أكثر من الأخرى وتذكر أن الأنتشار والعصرية لا يعنيان دائمًا أنه الأنسب لانجاز المهمة 
 
-> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hype and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hype and trendy does not always mean best suited for the job.
+## أعطني نجمة :star:
 
-## Give a Star! :star:
+إذا كنت تحب هذا المشروع أو تستخدمه للتعلم أو شيء اخر، فيرجى إعطائه نجمة. شكرا!
 
-If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+## خارطة الطريق
 
-## Roadmap
+![Roadmap](./golang-developer-roadmap-ar-IQ.png)
 
-![Roadmap](./golang-developer-roadmap.png)
-
-## Resources
-
-1. Prerequisites
+## مصادر
+1. المتطلبات الاساسية 
 
    - [Go](https://golangbot.com/)
    - [Go Modules](https://blog.golang.org/using-go-modules)
    - [SQL](https://www.w3schools.com/sql/default.asp)
 
-2. General Development Skills
+2. مهارات عامة في تطوير البرمجيات
+   - تعلم Git، اصنع بعض المستودعات على GitHub، شارك اكوادك مع اناس اخرين.
 
-   - Learn GIT, create a few repositories on GitHub, share your code with other people
-   - Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-   - Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
-   - Read a few books about algorithms and data structures
-   - Learn about implementation of a basic Authentication
-   - Solid principles, architectural & design patterns, ecc
-   - Basics of software testing (unit, integration, e2e)
+   - تعرف على بروتوكول HTTP(S)، طرق الطلب (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+   - لا تخف من استعمال جوجل، [البحث الفعال مع جوجل](http://www.powersearchingwithgoogle.com/)
+   - اقرأ بعض الكتب عن الخوارزميات وهياكل البيانات 
+   - تعلم كيفية تنفيذ مصادقة بسيطة (Authentication)
+   - المبادئ الصلبة (Solid principles)، البنية او الهيكل (architectural)، انماط التصميم (design patterns)، كود تصحيح الاخطاء (ecc)
+   - اساسيات اختبار البرمجيات (unit, integration, e2e)
 
-3. CLI Tools
+3. أدوات CLI 
    1. [cobra](https://github.com/spf13/cobra)
    2. [urfave/cli](https://github.com/urfave/cli)
 
-4. Web Frameworks + Routers
+4.  أطر الويب (Web Frameworks) + الموجهات (Routers)
 
    1. [Beego](https://github.com/beego/beego)
    2. [Chi](https://github.com/go-chi/chi)
@@ -55,22 +57,22 @@ If you like or are using this project to learn or start your solution, please gi
    5. [Gin](https://github.com/gin-gonic/gin)
    6. [Revel](https://github.com/revel/revel)
 
-5. Databases
+5. قواعد البيانات
 
-   1. Relational
+   1. علائقية
       1. [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
       2. [PostgreSQL](https://www.postgresql.org/)
       3. [MariaDB](https://mariadb.org/)
       4. [MySQL](https://www.mysql.com/)
       5. [CockroachDB](https://www.cockroachlabs.com/) 
-   2. Cloud Databases
+   2. قواعد اليانات السحابية 
       - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db)
       - [DynamoDB](https://aws.amazon.com/dynamodb/)
-   3. Search Engines
+   3. محركات البحث 
       - [ElasticSearch](https://www.elastic.co/)
       - [Solr](http://lucene.apache.org/solr/)
       - [Sphinx](http://sphinxsearch.com/)
-   4. NoSQL
+   4. بدون Sql  
       - [MongoDB](https://www.mongodb.com/)
       - [Redis](https://redis.io/)
       - [Apache Cassandra](http://cassandra.apache.org/)
@@ -82,30 +84,30 @@ If you like or are using this project to learn or start your solution, please gi
    1. [Gorm](https://github.com/go-gorm/gorm)
    2. [Xorm](https://github.com/go-xorm/xorm)
 
-7. Caching
+7. التخزين المؤقت (Caching)
 
    1. [GCache](https://github.com/bluele/gcache)
-   2. Distributed Cache
+   2. ذاكرة التخزين المؤقت الموزعة (Distributed Cache)
       1. [Go-Redis](https://github.com/go-redis/redis)
       2. [GoMemcached](https://github.com/bradfitz/gomemcache)
 
-8. Logging
+8. التسجيل (Logging)
 
-   1. Log Frameworks
+   1. أطر السجل (Log Frameworks)
       - [Zap](https://github.com/uber-go/zap)
       - [ZeroLog](https://github.com/rs/zerolog)
       - [Logrus](https://github.com/sirupsen/logrus)
-   2. Log Management System
+   2. نظام ادارة السجل (Log Management System)
       - [Sentry.io](http://sentry.io)
       - [Loggly.com](https://loggly.com)
-   3. Distributed Tracing
+   3. التتبع الموزع (Distributed Tracing)
       - [Jaeger](https://www.jaegertracing.io/)
 
-9. Real-Time Communication
+9. الاتصال في الوقت الحقيقي (Real-Time Communication)
    1. [Centrifugo](https://github.com/centrifugal/centrifugo)
    2. [Melody](https://github.com/olahol/melody)
 
-10. API Clients
+10. عملاء واجهة برنامج التطبيق (API Clients)
 
     1. REST
        - [Gentleman](https://github.com/h2non/gentleman)
@@ -115,7 +117,7 @@ If you like or are using this project to learn or start your solution, please gi
        - [gqlgen](https://github.com/99designs/gqlgen)
        - [graphql-go](https://github.com/graph-gophers/graphql-go)
 
-11. Good to Know
+11. من الجيد معرفته
 
     - [Validator](https://github.com/go-playground/validator)
     - [Glow](https://github.com/pytorch/glow)
@@ -123,7 +125,7 @@ If you like or are using this project to learn or start your solution, please gi
     - [Authboss](https://github.com/volatiletech/authboss)
     - [Go-Underscore](https://github.com/ahl5esoft/golang-underscore)
 
-12. Testing
+12. الاختبار
 
     1. Unit, Behavior, Integration Testing
        1. [GoMock](https://github.com/golang/mock)
@@ -134,32 +136,32 @@ If you like or are using this project to learn or start your solution, please gi
        6. [GoDog](https://github.com/DATA-DOG/godog)
        7. [GoConvey](https://github.com/smartystreets/goconvey)
        8. [Dockertest](https://github.com/ory/dockertest)
-    2. E2E Testing
+    2. اختبارE2E
        - [Selenium](https://github.com/tebeka/selenium)
        - [Endly](https://github.com/viant/endly)
 
-13. Task Scheduling
+13. جدولة المهام (Task Scheduling)
 
     - [Gron](https://github.com/roylee0704/gron)
     - [JobRunner](https://github.com/bamzi/jobrunner)
     - [Gocron](https://github.com/go-co-op/gocron)
 
-14. MicroServices
+14. الخدمات المصغرة (MicroServices)
 
-    1. Message-Broker
+    1. وسيط الرسائل (Message-Broker)
        - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-go.html)
        - [Apache Kafka](https://kafka.apache.org/)
        - [ActiveMQ](https://github.com/apache/activemq)
        - [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
-    2. Building message-driven
+    2. بناء رسالة (Building message-driven)
        - [Watermill](https://github.com/ThreeDotsLabs/watermill)
        - [Message-Bus](https://github.com/vardius/message-bus)
-    3. Frameworks
+    3. أطر العمل
          - [GoKit](https://github.com/go-kit/kit)
          - [go-zero](https://github.com/tal-tech/go-zero)
          - [Micro](https://github.com/micro/go-micro)
          - [rpcx](https://github.com/smallnest/rpcx)
-    4. RPC
+    4. نداء الإجراء البعيد (RPC)
          - [Protocol Buffers](https://github.com/protocolbuffers/protobuf)
          - [gRPC-Go](https://github.com/grpc/grpc-go)
          - [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway)
@@ -167,20 +169,22 @@ If you like or are using this project to learn or start your solution, please gi
 
 15. [Go-Patterns](https://github.com/tmrts/go-patterns)
 
-## Wrap Up
+## ختام
+إذا كنت تعتقد أنه يمكن تحسين خارطة الطريق، نرجو ان تقوم بفتح (pull request) مع كل التحديثات والابلاغ عن أي مشاكل. انا ايضا ساستمر في تطويره لذلك انصح ان تقوم باضافة نجمة حتى تتمكن من العودة وزيارتنا مجددا.
 
-If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+الفكرة مستوحات من  : [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 
-Idea from : [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
+## المساهمة
+خارطة الطريق تم بنائها باستخدام  [Draw.io](https://www.draw.io/). يمكنك ايجاد ملف المشروع `golang-developer-roadmap.xml` في هذا المستودع . لتعديله، قم بفتح draw.io واضغط **Open Existing Diagram** واختر ملف `xml` وسيقوم بفتح المخطط. عدل عليه، قم بتحديث الصورة في `README` وافتح (PR).
+استخرج بصيغة png مع تكبير بنسبة 400% وصغر عن طريق [Compressor.io](https://compressor.io/compress).
 
-## Contribution
 
-The roadmap is built using [Draw.io](https://www.draw.io/). Project file can be found at `golang-developer-roadmap.xml` file. To modify it, open draw.io, click **Open Existing Diagram** and choose `xml` file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with [Compressor.io](https://compressor.io/compress)).
+- افتح (PR) مع التحسينات 
+- ناقش الافكار في خانة المشاكل (issues)
+- انشر الكلمة
 
-- Open a pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-
-## License
+## الترخيص
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+</div>
