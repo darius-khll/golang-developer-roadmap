@@ -159,6 +159,7 @@ If you like or are using this project to learn or start your solution, please gi
          - [go-zero](https://github.com/tal-tech/go-zero)
          - [Micro](https://github.com/micro/go-micro)
          - [rpcx](https://github.com/smallnest/rpcx)
+         - [eagle](https://github.com/go-eagle/eagle)
     4. RPC
          - [Protocol Buffers](https://github.com/protocolbuffers/protobuf)
          - [gRPC-Go](https://github.com/grpc/grpc-go)
