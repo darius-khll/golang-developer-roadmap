@@ -100,6 +100,8 @@ If you like or are using this project to learn or start your solution, please gi
       - [Loggly.com](https://loggly.com)
    3. Distributed Tracing
       - [Jaeger](https://www.jaegertracing.io/)
+   4. APM (Application Performance Monitoring)
+      - [SigNoz](https://signoz.io/)
 
 9. Real-Time Communication
    1. [Centrifugo](https://github.com/centrifugal/centrifugo)
