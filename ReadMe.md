@@ -122,6 +122,7 @@ If you like or are using this project to learn or start your solution, please gi
     - [GJson](https://github.com/tidwall/gjson)
     - [Authboss](https://github.com/volatiletech/authboss)
     - [Go-Underscore](https://github.com/ahl5esoft/golang-underscore)
+    - [Excelize](https://github.com/xuri/excelize)
 
 12. Testing
 
