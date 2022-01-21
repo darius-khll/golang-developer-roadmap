@@ -150,6 +150,7 @@
             <li><a href="https://github.com/tidwall/gjson">GJson</a></li>
             <li><a href="https://github.com/volatiletech/authboss">Authboss</a></li>
             <li><a href="https://github.com/ahl5esoft/golang-underscore">Go-Underscore</a></li>
+            <li><a href="https://github.com/xuri/excelize">Excelize</a></li>
         </ul>
     </li>
     <li><p>Testing</p>

@@ -29,9 +29,9 @@ Go 개발자가 되기 위해 학습하고 싶은 기술이나 라이브러리�
 
 1. 먼저 알아야할 것들
 
-- [Go] (https://golangbot.com/)
+- [Go](https://golangbot.com/)
 - [Go Modules](https://blog.golang.org/using-go-modules)
-- [SQL] (https://www.w3schools.com/sql/default.asp)
+- [SQL](https://www.w3schools.com/sql/default.asp)
 
 2. 일반적인 개발 기술
 
@@ -106,6 +106,8 @@ Go 개발자가 되기 위해 학습하고 싶은 기술이나 라이브러리�
     - [GJson](https://github.com/tidwall/gjson)
     - [Authboss](https://github.com/volatiletech/authboss)
     - [Go-Underscore](https://github.com/ahl5esoft/golang-underscore)
+    - [Excelize](https://github.com/xuri/excelize)
+
 12. 테스팅
     1. Unit, Behavior, Integration Testing
        1. [GoMock](https://github.com/golang/mock)
