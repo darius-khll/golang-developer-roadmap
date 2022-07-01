@@ -132,7 +132,7 @@
         <ol>
             <li>REST<ul>
                 <li><a href="https://github.com/h2non/gentleman">Gentleman</a></li>
-                <li><a href="https://github.com/kennethreitz/grequests">GRequests</a></li>
+                <li><a href="https://github.com/levigross/grequests">GRequests</a></li>
                 <li><a href="https://github.com/gojek/heimdall">heimdall</a></li>
             </ul>
             </li>

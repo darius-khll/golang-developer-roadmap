@@ -109,7 +109,7 @@
 
     1. REST
        - [Gentleman](https://github.com/h2non/gentleman)
-       - [GRequests](https://github.com/kennethreitz/grequests)
+       - [GRequests](https://github.com/levigross/grequests)
        - [heimdall](https://github.com/heimdal/heimdal)
     2. [GraphQL](https://graphql.org/)
        - [gqlgen](https://github.com/99designs/gqlgen)
