@@ -95,7 +95,7 @@ Go 개발자가 되기 위해 학습하고 싶은 기술이나 라이브러리�
 10. API 클라이언트
     1. REST
        - [Gentleman](https://github.com/h2non/gentleman)
-       - [GRequests](https://github.com/kennethreitz/grequests)
+       - [GRequests](https://github.com/levigross/grequests)
        - [heimdall](https://github.com/heimdal/heimdal)
     2. GraphQL
        - [gqlgen](https://github.com/99designs/gqlgen)
