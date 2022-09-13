@@ -21,7 +21,7 @@ Go 개발자가 되기 위해 학습하고 싶은 기술이나 라이브러리�
 
 이 프로젝트를 좋아하거나, 이 프로젝트를 사용하여 해결책을 학습하거나 시작하려면 스타를 붙이세요. 고마워요!
 
-##로드맵
+## 로드맵
 
 ![Roadmap](./golang-developer-roadmap-ko-KR.png)
 
@@ -29,9 +29,9 @@ Go 개발자가 되기 위해 학습하고 싶은 기술이나 라이브러리�
 
 1. 먼저 알아야할 것들
 
-- [Go] (https://golangbot.com/)
+- [Go](https://golangbot.com/)
 - [Go Modules](https://blog.golang.org/using-go-modules)
-- [SQL] (https://www.w3schools.com/sql/default.asp)
+- [SQL](https://www.w3schools.com/sql/default.asp)
 
 2. 일반적인 개발 기술
 
