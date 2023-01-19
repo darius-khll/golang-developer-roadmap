@@ -167,7 +167,7 @@ Eğer projemizi beğendiyseniz veya projemiz işinize yarıyorsa ve hızlıca i�
          - [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway)
          - [Twirp](https://github.com/twitchtv/twirp)
 
-15. [Go-Patterns](https://github.com/tmrts/go-patterns)
+15. Go Yaklaşımları [Go-Patterns](https://github.com/tmrts/go-patterns)
 
 ## Özetle
 
